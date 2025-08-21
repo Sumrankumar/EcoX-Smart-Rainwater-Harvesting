@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd \"Main page\" && npm install && npm run build",
+  "outputDirectory": "Main page/.next",
+  "installCommand": "cd \"Main page\" && npm install"
+}
